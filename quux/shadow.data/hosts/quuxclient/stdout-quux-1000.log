@@ -1,0 +1,12 @@
+20 [info] [main] Starting Hello program
+20 [info] [main] entering main loop to watch descriptors
+20 [info] [main] waiting for events
+20 [info] [main] processing event
+20 [info] [_hello_activateClient] EPOLLOUT is set
+20 [info] [_hello_activateClient] successfully sent 'Hello?' message
+20 [info] [main] waiting for events
+20 [info] [main] processing event
+20 [info] [_hello_activateClient] EPOLLIN is set
+20 [info] [_hello_activateClient] successfully received 'World!' message
+20 [info] [main] finished main loop, cleaning up
+20 [info] [main] exiting cleanly
